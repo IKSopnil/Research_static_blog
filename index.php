@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Top Thesis,Research Subject in Computer Science</title>
+    <title>Top 30 Thesis,Research Topic in Computer Science</title>
 
     <!-- Load Bootstrap CSS from CDN -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css">
@@ -35,7 +35,7 @@
                 border-radius: 10px;
             }
 
-            .ms-5 {
+            .ms-lg-5 {
                 margin-top: 50px;
             }
 
@@ -51,10 +51,10 @@
             }
         </style>
 
-        <div class="container bg-light mt-5">
-            <div class=" ms-5 ps-5">
+        <div class="lg-container bg-light mt-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>1. Cybersecurity and Data Privacy: </h4>
-                <p class="col-lg-10 mt-3">
+                <p class="col-lg-10  mt-3">
                     Cybersecurity and data privacy are critical issues in today's digital age. Hackers and cyber
                     criminals are constantly looking for ways to access sensitive data, and it is essential to have
                     secure systems and protocols in place to protect against cyber attacks. This topic involves
@@ -64,7 +64,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     2. Machine Learning for Natural Language Processing
                 </h4>
@@ -76,7 +76,7 @@
                     language processing, as well as applications such as chatbots and virtual assistants.
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     3. Cloud Computing and Big Data
                 </h4>
@@ -88,7 +88,7 @@
                     as exploring new technologies such as edge computing.
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     4. Computer Vision and Image Processing
                 </h4>
@@ -100,7 +100,7 @@
                     medical imaging.
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     5. Artificial Intelligence and Robotics
                 </h4>
@@ -113,7 +113,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     6. Human-Computer Interaction
                 </h4>
@@ -126,7 +126,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     7. Virtual and Augmented Reality
 
@@ -140,7 +140,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     8. Software Engineering and Development
                 </h4>
@@ -153,7 +153,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     9. Data Science and Analytics
                 </h4>
@@ -166,7 +166,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     10. Natural Computing and Evolutionary Algorithms
                 </h4>
@@ -175,7 +175,7 @@
                     evolution, and are used to solve complex problems in computer science.
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     11. Computer Graphics and Animation
                 </h4>
@@ -186,7 +186,7 @@
                     applications, including video games, movies, and virtual reality.
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     12. Internet of Things and Smart Cities
                 </h4>
@@ -198,7 +198,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     13. Blockchain and Cryptocurrencies
                 </h4>
@@ -210,7 +210,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     14. Cybercrime and Digital Forensics
                 </h4>
@@ -222,7 +222,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     15. Computational Linguistics
                 </h4>
@@ -234,7 +234,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     16. Biometrics and Security
                 </h4>
@@ -246,7 +246,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     17. Mobile Computing and Applications
                 </h4>
@@ -258,7 +258,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     18. Computer Networks and Communication
                 </h4>
@@ -270,7 +270,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     19. Data Mining and Knowledge Discovery
                 </h4>
@@ -281,7 +281,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     20. Quantum Computing and Cryptography
                 </h4>
@@ -292,7 +292,7 @@
                     applications.
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     21. High-Performance Computing
                 </h4>
@@ -303,7 +303,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     22. Computer-Assisted Education and Learning
                 </h4>
@@ -314,7 +314,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     23. Social Media Mining and Analysis
                 </h4>
@@ -326,7 +326,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     24. Cyber-Physical Systems
                 </h4>
@@ -336,7 +336,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     25. Internet Security and Privacy:
                 </h4>
@@ -346,7 +346,7 @@
                     security and privacy of internet users by developing and implementing effective security measures.
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     26. Data Visualization and Visual Analytics
                 </h4>
@@ -357,7 +357,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     27. Computer-Based Medical Systems
                 </h4>
@@ -369,7 +369,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     28. Embedded Systems and Real-Time Computing
                 </h4>
@@ -380,7 +380,7 @@
 
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     29. Intelligent Transportation Systems
                 </h4>
@@ -390,7 +390,7 @@
                     efficiency, safety, and sustainability.
                 </p>
             </div>
-            <div class="ms-5 ps-5">
+            <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     30. Computational Biology and Bioinformatics
                 </h4>
