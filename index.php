@@ -405,15 +405,8 @@
 
     </section>
     <section>
-        <footer>
-            <p><a href="">FYI</a></p>
-            These thesis and research topics in computer science were suggested by ChatGPT, a language model trained by
-            OpenAI, based on the GPT-3.5 architecture. The topics are meant to provide inspiration and guidance to
-            students and researchers interested in computer science. While we strive to provide accurate and useful
-            information, it is important to conduct thorough research and consult with your academic advisors before
-            finalizing a topic for your thesis or research. Additionally, please ensure that you follow proper citation
-            and attribution guidelines when using external sources.
-        </footer>
+        <?php include"footer.php" ?>
+        
     </section>
     <!-- Load jQuery from CDN -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
