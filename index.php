@@ -17,63 +17,64 @@
 <body class="bg-light" id="body">
 
 
-<a href="#" class="scroll-top-btn">
-    <i class="fa fa-arrow-up"></i>
-  </a>
-  <style>
-    .scroll-top-btn {
-      position: fixed;
-      bottom: 20px;
-      right: 20px;
-      background-color: #555;
-      color: whitesmoke;
-      width: 40px;
-      height: 40px;
-      text-align: center;
-      line-height: 40px;
-      border-radius: 50%;
-      z-index: 9999;
-      opacity: 0;
-      transition: opacity 0.3s ease-in-out;
-    }
+    <a href="#" class="scroll-top-btn">
+        <i class="fa fa-arrow-up"></i>
+    </a>
+    <style>
+        .scroll-top-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #555;
+            color: whitesmoke;
+            width: 40px;
+            height: 40px;
+            text-align: center;
+            line-height: 40px;
+            border-radius: 50%;
+            z-index: 9999;
+            opacity: 0;
+            transition: opacity 0.3s ease-in-out;
+        }
 
-    .scroll-top-btn:hover {
-        color: whitesmoke;
-      background-color: black;
-    }
+        .scroll-top-btn:hover {
+            color: whitesmoke;
+            background-color: black;
+        }
 
-    .scroll-top-btn.show {
-      opacity: 1;
-    }
-  </style>
+        .scroll-top-btn.show {
+            opacity: 1;
+        }
+    </style>
 
-  <script>
-    window.onscroll = function() {scrollFunction()};
-
-    function scrollFunction() {
-      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-        document.querySelector('.scroll-top-btn').classList.add('show');
-      } else {
-        document.querySelector('.scroll-top-btn').classList.remove('show');
-      }
-    }
-
-    document.querySelector('.scroll-top-btn').addEventListener('click', function(e) {
-      e.preventDefault();
-      document.body.scrollTop = 0;
-      document.documentElement.scrollTop = 0;
-    });
-  </script>
     <script>
-        $(window).on("load", function () {
+        window.onscroll = function() {
+            scrollFunction()
+        };
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                document.querySelector('.scroll-top-btn').classList.add('show');
+            } else {
+                document.querySelector('.scroll-top-btn').classList.remove('show');
+            }
+        }
+
+        document.querySelector('.scroll-top-btn').addEventListener('click', function(e) {
+            e.preventDefault();
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        });
+    </script>
+    <script>
+        $(window).on("load", function() {
             $("body").mCustomScrollbar({
                 theme: "minimal",
             });
         });
-
     </script>
-    <?php include"navbar.php"
-     ?>
+    <?php include "navbar.php"
+    ?>
     <section class="container mt-5 ">
         <div>
             <h3 style="font-weight: bold;">Top 30 Thesis and Research topic for Computer Science. </h3>
@@ -97,6 +98,25 @@
                 font-size: 18px;
                 line-height: 1.5;
                 text-indent: 50px;
+            }
+
+            h3 {
+                
+                font-family: "Times New Roman", Times, serif;
+                
+            }
+            div h4 {
+                font-size: 24px;
+                font-family: "Times New Roman", Times, serif;
+                font-weight: bold;
+            }
+
+            div p {
+                font-size: 18px;
+                font-family: "Georgia", serif;
+                font-style: italic;
+                line-height: 1.5;
+                margin-top: 10px;
             }
         </style>
 
@@ -454,8 +474,8 @@
 
     </section>
     <section>
-        <?php include"footer.php" ?>
-        
+        <?php include "footer.php" ?>
+
     </section>
     <!-- Load jQuery from CDN -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>

@@ -1,6 +1,6 @@
 <section>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark py-4">
-            <a class="navbar-brand ps-5" href="#">
+            <a class="navbar-brand ps-5" href="index.php">
                 <p>Thesis and Research</p>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"

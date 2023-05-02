@@ -5,7 +5,7 @@
 <footer class="bg-dark text-white py-3 ">
   <div class="container">
     <div class="row ">
-      <div class="col-12 col-md-6 text-center">
+      <div class="col-4 text-center">
         <h5>Thesis and Research</h5>
         <p>123 Main StreetAnytown, USA 12345</p>
         <p>(123) 456-7890</p>
@@ -14,7 +14,11 @@
         <p id="fyi-message" style="display: none;">These thesis and research topics in computer science were suggested by ChatGPT, a language model trained by OpenAI, based on the GPT-3.5 architecture. The topics are meant to provide inspiration and guidance to students and researchers interested in computer science. While we strive to provide accurate and useful information, it is important to conduct thorough research and consult with your academic advisors before finalizing a topic for your thesis or research. Additionally, please ensure that you follow proper citation and attribution guidelines when using external sources.</p>
 
       </div>
-      <div class="col-12 col-md-6 text-center">
+      <div class="col-4 text-center">
+      <h5>Sponsored by</h5>
+
+      </div>
+      <div class="col-4  text-center">
         <h5>Follow Us</h5>
         <ul class="list-inline mt-4">
           <li class="list-inline-item"><a href="#"><i class="fab fa-facebook"></i></a></li><br>
