@@ -32,9 +32,7 @@
                 border-radius: 10px;
             }
 
-            .ms-lg-5 {
-                margin-top: 50px;
-            }
+    
 
             h4 {
                 font-weight: bold;
@@ -47,17 +45,7 @@
                 text-indent: 50px;
             }
 
-            h3 {
-                
-                font-family: "Times New Roman", Times, serif;
-                
-            }
-            div h4 {
-                font-size: 24px;
-                font-family: "Times New Roman", Times, serif;
-                font-weight: bold;
-            }
-
+          
             div p {
                 font-size: 18px;
                 font-family: "Georgia", serif;
