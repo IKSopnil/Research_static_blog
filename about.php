@@ -60,6 +60,7 @@
         <style>
             .abt p{
                 margin: 50px;
+                
             }
         </style>
     </section>
@@ -69,9 +70,11 @@
 
     <!-- Load Bootstrap JS from CDN -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
+<section >
 <?php 
 include "footer.php"
 ?>
+</section>
 </body>
 
 </html>

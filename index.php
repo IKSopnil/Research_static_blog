@@ -14,7 +14,56 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
-<body class="bg-light">
+<body class="bg-light" id="body">
+
+
+<a href="#" class="scroll-top-btn">
+    <i class="fa fa-arrow-up"></i>
+  </a>
+  <style>
+    .scroll-top-btn {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #555;
+      color: whitesmoke;
+      width: 40px;
+      height: 40px;
+      text-align: center;
+      line-height: 40px;
+      border-radius: 50%;
+      z-index: 9999;
+      opacity: 0;
+      transition: opacity 0.3s ease-in-out;
+    }
+
+    .scroll-top-btn:hover {
+        color: whitesmoke;
+      background-color: black;
+    }
+
+    .scroll-top-btn.show {
+      opacity: 1;
+    }
+  </style>
+
+  <script>
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.querySelector('.scroll-top-btn').classList.add('show');
+      } else {
+        document.querySelector('.scroll-top-btn').classList.remove('show');
+      }
+    }
+
+    document.querySelector('.scroll-top-btn').addEventListener('click', function(e) {
+      e.preventDefault();
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    });
+  </script>
     <script>
         $(window).on("load", function () {
             $("body").mCustomScrollbar({
