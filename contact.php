@@ -1,23 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top Thesis,Research Subject in Computer Science</title>
+
+    <!-- Load Bootstrap CSS from CDN -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css">
 
     <!-- Load custom CSS -->
     <link rel="stylesheet" href="style.css">
-    <!--bootstrap-->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
-    <!--font awesome-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-    <!-- google font-->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
 </head>
-
 <?php
-include "navbar.php";
-?>
+        include "navbar.php";
+        ?>
 
 <body class="bg-light">
+
     <style>
+         p {
+                font-size: 18px;
+                line-height: 1.5;
+                text-indent: 50px;
+            }
         input[type=text],
         input[type=email],
         textarea {
@@ -45,11 +52,20 @@ include "navbar.php";
         input[type=submit]:hover {
             background-color: black;
         }
+        div p {
+                font-size: 18px;
+                font-family: "Georgia", serif;
+                font-style: italic;
+                line-height: 1.5;
+                margin-top: 10px;
+            }
     </style>
-    <section class="contract d-flex justify-content-center">
+    
+    
+    <section class="contract  d-flex justify-content-center">
         <div class="   ">
             <div class=" container row  my-5">
-                <h3 class="my-5">Message Us</h3>
+                <h3 class="my-5 text-center">Message Us</h3>
                 <div class="col-lg-6  justify-content-center  mt-4">
                     <p class="my-4">IKSopnil</p>
                     <p class="my-4">

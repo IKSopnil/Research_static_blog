@@ -32,8 +32,6 @@
                 border-radius: 10px;
             }
 
-    
-
             h4 {
                 font-weight: bold;
                 font-size: 24px;
