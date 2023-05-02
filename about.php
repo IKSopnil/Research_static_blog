@@ -26,6 +26,46 @@
     <?php include"navbar.php"
      ?>
     <section class="container mt-5">
+    <style>
+            .container {
+                padding: 20px;
+                border-radius: 10px;
+            }
+
+            .ms-lg-5 {
+                margin-top: 50px;
+            }
+
+            h4 {
+                font-weight: bold;
+                font-size: 24px;
+            }
+
+            p {
+                font-size: 18px;
+                line-height: 1.5;
+                text-indent: 50px;
+            }
+
+            h3 {
+                
+                font-family: "Times New Roman", Times, serif;
+                
+            }
+            div h4 {
+                font-size: 24px;
+                font-family: "Times New Roman", Times, serif;
+                font-weight: bold;
+            }
+
+            div p {
+                font-size: 18px;
+                font-family: "Georgia", serif;
+                font-style: italic;
+                line-height: 1.5;
+                margin-top: 10px;
+            }
+        </style>
         <div class="container abt col-lg-10">
             <p>
                 Welcome to our website! We are a team of passionate computer science professionals dedicated to
