@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Top 30 Thesis,Research Topic in Computer Science</title>
-
+    <link rel="shortcut icon" href="pc.png">
     <!-- Load Bootstrap CSS from CDN -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css">
 
@@ -79,6 +79,7 @@
         <div>
             <h3 style="font-weight: bold;">Top 30 Thesis and Research topic for Computer Science. </h3>
         </div>
+        <hr>
         <style>
             .container {
                 padding: 20px;

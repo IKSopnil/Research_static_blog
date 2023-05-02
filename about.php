@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Top Thesis,Research Subject in Computer Science</title>
+    <title>Top 30 Thesis,Research Topic in Computer Science</title>
+    <link rel="shortcut icon" href="pc.png">
 
     <!-- Load Bootstrap CSS from CDN -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css">
@@ -16,17 +17,16 @@
 
 <body class="bg-light">
     <script>
-        $(window).on("load", function () {
+        $(window).on("load", function() {
             $("body").mCustomScrollbar({
                 theme: "minimal",
             });
         });
-
     </script>
-    <?php include"navbar.php"
-     ?>
+    <?php include "navbar.php"
+    ?>
     <section class="container mt-5">
-    <style>
+        <style>
             .container {
                 padding: 20px;
                 border-radius: 10px;
@@ -43,7 +43,7 @@
                 text-indent: 50px;
             }
 
-          
+
             div p {
                 font-size: 18px;
                 font-family: "Georgia", serif;
@@ -84,9 +84,9 @@
 
         </div>
         <style>
-            .abt p{
+            .abt p {
                 margin: 50px;
-                
+
             }
         </style>
     </section>
@@ -96,11 +96,11 @@
 
     <!-- Load Bootstrap JS from CDN -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
-<section >
-<?php 
-include "footer.php"
-?>
-</section>
+    <section>
+        <?php
+        include "footer.php"
+        ?>
+    </section>
 </body>
 
 </html>

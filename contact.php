@@ -2,10 +2,11 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Top Thesis,Research Subject in Computer Science</title>
+    <title>Top 30 Thesis,Research Topic in Computer Science</title>
+    <link rel="shortcut icon" href="pc.png">
 
     <!-- Load Bootstrap CSS from CDN -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css">
@@ -66,7 +67,7 @@
         <div class="   ">
             <div class=" container row  my-5">
                 <h3 class="my-5 text-center">Message Us</h3>
-                <div class="col-lg-6  justify-content-center  mt-4">
+                <div class="col-lg-6  justify-content-center  ">
                     <p class="my-4">IKSopnil</p>
                     <p class="my-4">
                         Computer Science and Engineering
@@ -77,6 +78,11 @@
                     <p class="my-4">
                         "I value your input and appreciate your business.
                         "</p>
+
+                    <strong>Support Developer:</strong><br>
+                    <div class="text-center">
+                   <a href="https://bmc.link/iksopnil" target="_blank"> <img src="bmc_qr.png" top="200" width="200"></a>
+                    </div>
                 </div>
 
                 <div class="col-lg-6 justify-content-center my-2 mb-5">
