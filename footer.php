@@ -1,4 +1,8 @@
 <head>
+<title>Top 30 Thesis, Research Topic in Computer Science - Best Topics</title>
+    <meta name="description" content="Find the best topics for your thesis or research project in computer science. Get inspired by our list of the top 30 topics, including AI, machine learning, cybersecurity, and more.">
+    <meta name="keywords" content="thesis topics, research topics, computer science, AI, machine learning, cybersecurity">
+   
   <!--font awesome-->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
