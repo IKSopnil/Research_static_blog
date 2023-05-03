@@ -473,6 +473,7 @@
 
                 </p>
             </div>
+            <p>These are major top 30 Thesis and Research topic for Computer Science student and professionalist.</p>
         </div>
 
     </section>
