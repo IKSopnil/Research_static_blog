@@ -79,7 +79,7 @@
     ?>
     <section class="container mt-5 ">
         <div>
-            <h3 style="font-weight: bold;">Top 30 Thesis and Research topic for Computer Science. </h3>
+            <h1 style="font-weight: bold;">Top 30 Thesis and Research topic for Computer Science. </h1>
         </div>
         <hr>
         <style>
