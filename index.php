@@ -8,14 +8,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Top 30 Thesis, Research Topic in Computer Science - Best Topics</title>
     <meta name="description" content="Find the best topics for your thesis or research project in computer science. Get inspired by our list of the top 30 topics, including AI, machine learning, cybersecurity, and more.">
-    <meta name="keywords" content="top, 30,thesis,research,computer science,top 30 topic,top research topic, thesis topics, research topics, computer science, AI, machine learning, cybersecurity">
+    <meta name="keywords" content="top 30, thesis, research, computer science, AI, machine learning, cybersecurity">
     <link rel="shortcut icon" href="pc.png">
+    
+    <!-- Add Open Graph tags for social media sharing -->
+    <meta property="og:title" content="Top 30 Thesis, Research Topic in Computer Science - Best Topics">
+    <meta property="og:description" content="Find the best topics for your thesis or research project in computer science. Get inspired by our list of the top 30 topics, including AI, machine learning, cybersecurity, and more.">
+    <meta property="og:image" content="pc.png">
+    <meta property="og:url" content="https://thesis-research.lovestoblog.com/">
+    <meta property="og:type" content="website">
+
     <!-- Load Bootstrap CSS from CDN -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css">
 
     <!-- Load custom CSS -->
     <link rel="stylesheet" href="style.css">
 </head>
+
 
 <body class="bg-light" id="body">
 
