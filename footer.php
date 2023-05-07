@@ -1,8 +1,8 @@
 <head>
-<title>Top 30 Thesis, Research Topic in Computer Science - Best Topics</title>
-    <meta name="description" content="Find the best topics for your thesis or research project in computer science. Get inspired by our list of the top 30 topics, including AI, machine learning, cybersecurity, and more.">
-    <meta name="keywords" content="thesis topics, research topics, computer science, AI, machine learning, cybersecurity">
-   
+  <title>Top 30 Thesis, Research Topic in Computer Science - Best Topics</title>
+  <meta name="description" content="Find the best topics for your thesis or research project in computer science. Get inspired by our list of the top 30 topics, including AI, machine learning, cybersecurity, and more.">
+  <meta name="keywords" content="thesis topics, research topics, computer science, AI, machine learning, cybersecurity">
+
   <!--font awesome-->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
@@ -20,7 +20,7 @@
 
       </div>
       <div class="col-4 text-center">
-      <h5>Sponsored by</h5>
+        <h5>Sponsored by</h5>
 
       </div>
       <div class="col-4  text-center">
@@ -28,7 +28,7 @@
         <ul class="list-inline mt-4">
           <li><a href="https://bmc.link/iksopnil" target="_blank">Support Developer</a></li>
           <li class="list-inline-item my-2"><a href="#"><i class="fab fa-facebook"></i></a></li><br>
-          <li class="list-inline-item my-2"><a href="#"><i class="fab fa-twitter"></i></a></li><br>      
+          <li class="list-inline-item my-2"><a href="#"><i class="fab fa-twitter"></i></a></li><br>
           <li class="list-inline-item my-2"><a href="#"><i class="fab fa-linkedin-in"></i></a></li><br>
         </ul>
       </div>
