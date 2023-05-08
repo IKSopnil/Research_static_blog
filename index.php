@@ -133,7 +133,6 @@
                 font-weight: bold;
                 font-size: 24px;
             }
-
             p {
                 font-size: 18px;
                 line-height: 1.5;
