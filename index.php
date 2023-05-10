@@ -359,8 +359,8 @@
                 <h4>
                     10. Natural Computing and Evolutionary Algorithms
                 </h4>
-                <p class="col-lg-10 mt-3">
-                    Natural computing and evolutionary algorithms are based on natural systems such as genetics and
+                <p class="col-lg-10 mt-3"><a href="https://www.springer.com/journal/11047">Natural computing</a>
+                     and evolutionary algorithms are based on natural systems such as genetics and
                     evolution, and are used to solve complex problems in computer science.
                 </p>
             </div>
@@ -369,7 +369,7 @@
                     11. Computer Graphics and Animation
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic focuses on developing and improving computer graphics and animation techniques. It
+                    This topic focuses on developing and improving <a href="https://www.javatpoint.com/computer-graphics-animation">computer graphics and animation</a> techniques. It
                     involves research on the latest advancements in 3D modeling, animation, rendering, and visual
                     effects. The goal is to create more realistic and visually appealing graphics for various
                     applications, including video games, movies, and virtual reality.
@@ -380,7 +380,7 @@
                     12. Internet of Things and Smart Cities
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves researching and developing systems for connected devices and smart cities. It
+                    This topic involves researching and developing systems for connected devices and <a href="https://dgtlinfra.com/smart-city-internet-of-things-iot/#:~:text=A%20smart%20city%20uses%20Internet,a%20higher%20standard%20of%20living.">smart cities</a>. It
                     involves exploring ways to connect everyday devices to the internet to collect and analyze data that
                     can be used to optimize and improve city operations, including transportation, energy, and public
                     safety.
@@ -393,7 +393,7 @@
                 </h4>
                 <p class="col-lg-10 mt-3">
                     This topic involves analyzing and developing systems and protocols for secure and decentralized
-                    transactions. It includes research on the blockchain technology that underpins cryptocurrencies like
+                    transactions. It includes research on the <a href="https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html">blockchain technology</a> that underpins cryptocurrencies like
                     Bitcoin and Ethereum, as well as exploring their potential applications beyond finance, such as
                     supply chain management and voting systems.
 
@@ -406,7 +406,7 @@
                 <p class="col-lg-10 mt-3">
                     This topic involves analyzing and preventing cybercrime, as well as investigating digital evidence.
                     It involves research on the latest methods used by cybercriminals to exploit vulnerabilities in
-                    computer systems and developing strategies to protect against these threats. Digital forensics
+                    computer systems and developing strategies to protect against these threats. <a href="https://www.researchgate.net/publication/314220073_Cybercrime_and_Digital_Forensics_An_Introduction">Digital forensics</a> 
                     involves analyzing digital evidence in criminal investigations.
 
                 </p>
@@ -416,7 +416,7 @@
                     15. Computational Linguistics
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves developing algorithms and techniques for analyzing and processing language data.
+                   <a href="https://plato.stanford.edu/entries/computational-linguistics/"> This topic</a> involves developing algorithms and techniques for analyzing and processing language data.
                     It includes research on natural language processing, speech recognition, and machine translation.
                     The goal is to improve human-computer communication, as well as analyzing and understanding large
                     amounts of textual data.
