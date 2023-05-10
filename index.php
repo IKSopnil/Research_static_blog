@@ -7,25 +7,63 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Top 30 Thesis, Research Topic in Computer Science - Best Topics</title>
     <meta name="description" content="Find the best topics for your thesis or research project in computer science. Get inspired by our list of the top 30 topics, including AI, machine learning, cybersecurity, and more.">
-    <meta name="keywords" content="computer science, AI, machine learning, cybersecurity">
+    <meta name="keywords" content="best research topic for students, cs research,computer science engineers, AI, machine learning, cybersecurity">
     <link rel="shortcut icon" href="pc.png">
-
+    
     <!-- Add Open Graph tags for social media sharing -->
-    <meta property="og:title" content="Top 30 Thesis, Research Topic in Computer Science - Best Topics">
-    <meta property="og:description" content="Find the best topics for your thesis or research project in computer science. Get inspired by our list of the top 30 topics, including AI, machine learning, cybersecurity, and more.">
-    <meta property="og:image" content="pc.png">
-    <meta property="og:url" content="https://thesis-research.lovestoblog.com/">
-    <meta property="og:type" content="website">
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Top 30 Thesis, Research Topic in Computer Science - Best Topics 2023">
+    <meta property="og:description" content="Find the best topics for your thesis or research project in computer science 2023. Get inspired by our list of the top 30 topics, including AI, machine learning, cybersecurity, and more.">
+    <meta property="og:image" content="https://research-thesis.com/pc.png">
+    <meta property="og:url" content="https://research-thesis.com/pc.png">
+    <meta property="og:type" content="research paper for computer science">
+
+	<meta property="og:site_name" content="thesis-research" />
+	<meta property="article:modified_time" content="2023-05-05T09:35:39+00:00" />
+
+
 
     <!-- Load Bootstrap CSS from CDN -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css">
 
     <!-- Load custom CSS -->
     <link rel="stylesheet" href="style.css">
+
+     <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://thesis-research.lovestoblog.com/"
+            },
+            "headline": "Top 30 Thesis, Research Topic in Computer Science - Best Topics",
+            "description": "Find the best topics for your thesis or research project in computer science. Get inspired by our list of the top 30 topics, including AI, machine learning, cybersecurity, and more.",
+            "image": {
+                "@type": "ImageObject",
+                "url": "pc.png",
+                "width": 1200,
+                "height": 630
+            },
+           
+            
+            "datePublished": "2023-05-05T12:00:00+00:00",
+            "dateModified": "2023-05-05T12:00:00+00:00"
+        }
+    </script>
+
+<!--ads-->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8407710611045630"
+     crossorigin="anonymous"></script>
+
+
+     
 </head>
 
-
 <body class="bg-light" id="body">
+<!--ads-->
+
 
 
     <a href="#" class="scroll-top-btn">
@@ -84,36 +122,8 @@
             });
         });
     </script>
-
-    <head>
-        <title>Top 30 Thesis, Research Topic in Computer Science - Best Topics</title>
-        <meta name="description" content="Find the best topics for your thesis or research project in computer science. Get inspired by our list of the top 30 topics, including AI, machine learning, cybersecurity, and more.">
-        <meta name="keywords" content="thesis topics, research topics, computer science, AI, machine learning, cybersecurity">
-
-    </head>
-    <section>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark py-4">
-            <a class="navbar-brand ps-5" href="index.php">
-                <p>Thesis and Research</p>
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse justify-content-center pe-5 me-5" style="font-weight: bold;" id="navbarNav">
-                <ul class="navbar-nav ">
-                    <li class="nav-item mx-4">
-                        <a class="nav-link" href="index.php">Home</a>
-                    </li>
-                    <li class="nav-item mx-4">
-                        <a class="nav-link" href="about.php">About</a>
-                    </li>
-                    <li class="nav-item mx-4">
-                        <a class="nav-link" href="contact.php">Contact</a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-    </section>
+    <?php include "navbar.php"
+    ?>
     <section class="container mt-5 ">
         <div>
             <h1 style="font-weight: bold;">Top 30 Thesis and Research topic for Computer Science. </h1>
@@ -133,19 +143,18 @@
                 font-weight: bold;
                 font-size: 24px;
             }
+
             p {
                 font-size: 18px;
                 line-height: 1.5;
                 text-indent: 50px;
             }
 
-            h3,
-            h1 {
-
+            h3,h1 {
+                
                 font-family: "Times New Roman", Times, serif;
-
+                
             }
-
             div h4 {
                 font-size: 24px;
                 font-family: "Times New Roman", Times, serif;
@@ -516,52 +525,8 @@
 
     </section>
     <section>
+        <?php include "footer.php" ?>
 
-        <head>
-            <title>Top 30 Thesis, Research Topic in Computer Science - Best Topics</title>
-            <meta name="description" content="Find the best topics for your thesis or research project in computer science. Get inspired by our list of the top 30 topics, including AI, machine learning, cybersecurity, and more.">
-            <meta name="keywords" content="thesis topics, research topics, computer science, AI, machine learning, cybersecurity">
-
-            <!--font awesome-->
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-        </head>
-        <footer class="bg-dark text-white py-3 ">
-            <div class="container">
-                <div class="row ">
-                    <div class="col-4 text-center">
-                        <h5>Thesis and Research</h5>
-                        <p>IKSopnil,</p>
-                        <p>Computer Science and Engineering</p>
-                        <p>roarmode@gmail.com</p>
-                        <p>2023</p>
-                        <p id="fyi-link" style="cursor: pointer; color: blue">FYI</p>
-                        <p id="fyi-message" style="display: none;">These thesis and research topics in computer science were suggested by ChatGPT, a language model trained by OpenAI, based on the GPT-3.5 architecture. The topics are meant to provide inspiration and guidance to students and researchers interested in computer science. While we strive to provide accurate and useful information, it is important to conduct thorough research and consult with your academic advisors before finalizing a topic for your thesis or research. Additionally, please ensure that you follow proper citation and attribution guidelines when using external sources.</p>
-
-                    </div>
-                    <div class="col-4 text-center">
-                        <h5>Sponsored by</h5>
-
-                    </div>
-                    <div class="col-4  text-center">
-                        <h5>Follow Us</h5>
-                        <ul class="list-inline mt-4">
-                            <li><a href="https://bmc.link/iksopnil" target="_blank">Support Developer</a></li>
-                            <li class="list-inline-item my-2"><a href="#"><i class="fab fa-facebook"></i></a></li><br>
-                            <li class="list-inline-item my-2"><a href="#"><i class="fab fa-twitter"></i></a></li><br>
-                            <li class="list-inline-item my-2"><a href="#"><i class="fab fa-linkedin-in"></i></a></li><br>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <script>
-            const fyiLink = document.getElementById("fyi-link");
-            const fyiMessage = document.getElementById("fyi-message");
-
-            fyiLink.addEventListener("click", () => {
-                fyiMessage.style.display = fyiMessage.style.display === "none" ? "block" : "none";
-            });
-        </script>
     </section>
     <!-- Load jQuery from CDN -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
