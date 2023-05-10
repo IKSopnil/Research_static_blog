@@ -9,6 +9,8 @@
     <meta name="description" content="Find the best topics for your thesis or research project in computer science. Get inspired by our list of the top 30 topics, including AI, machine learning, cybersecurity, and more.">
     <meta name="keywords" content="best research topic for students, cs research,computer science engineers, AI, machine learning, cybersecurity">
     <link rel="shortcut icon" href="pc.png">
+    <link rel="icon" type="image/png" href="pc.png">
+
     
     <!-- Add Open Graph tags for social media sharing -->
     <meta property="og:locale" content="en_US" />
@@ -37,7 +39,7 @@
             "@type": "Article",
             "mainEntityOfPage": {
                 "@type": "WebPage",
-                "@id": "https://thesis-research.lovestoblog.com/"
+                "@id": "https://research-thesis.com/"
             },
             "headline": "Top 30 Thesis, Research Topic in Computer Science - Best Topics",
             "description": "Find the best topics for your thesis or research project in computer science. Get inspired by our list of the top 30 topics, including AI, machine learning, cybersecurity, and more.",
