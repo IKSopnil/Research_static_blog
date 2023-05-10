@@ -428,7 +428,7 @@
                     16. Biometrics and Security
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves developing and analyzing biometric systems for secure identification and
+                    This topic involves developing and analyzing <a href="https://www.kaspersky.com/resource-center/definitions/biometrics">biometric systems for secure identification</a>  and
                     authentication. It includes research on techniques for capturing, analyzing, and comparing
                     biological traits, such as fingerprints, facial recognition, and voice recognition, as well as
                     exploring their potential applications in security systems.
