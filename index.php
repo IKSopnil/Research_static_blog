@@ -19,7 +19,7 @@
     <meta property="og:url" content="https://research-thesis.com/pc.png">
     <meta property="og:type" content="research paper for computer science">
 
-	<meta property="og:site_name" content="thesis-research" />
+	<meta property="og:site_name" content="research-thesis" />
 	<meta property="article:modified_time" content="2023-05-05T09:35:39+00:00" />
 
 
