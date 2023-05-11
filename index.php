@@ -391,7 +391,7 @@
                     17. Mobile Computing and Applications
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves developing mobile applications and systems for various platforms. It includes
+                    This topic involves <a href="https://dataconomy.com/2022/07/29/what-is-mobile-computing/#:~:text=Mobile%20computing%20and%20its%20applications,hardware%2C%20software%2C%20and%20hardware.">developing mobile applications and systems</a>  for various platforms. It includes
                     research on user interfaces, mobile application development frameworks, and mobile device hardware
                     capabilities. The goal is to create intuitive and efficient mobile applications for a variety of
                     purposes, including productivity, gaming, and social networking.
@@ -403,7 +403,7 @@
                     18. Computer Networks and Communication
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves analyzing and improving computer network and communication protocols. It
+                    This topic involves analyzing and improving <a href="https://www.britannica.com/science/computer-science/Networking-and-communication"> computer network and communication</a> protocols. It
                     includes research on data transmission, network architecture, and network security. The goal is to
                     create more efficient and secure network systems that can support a variety of applications and
                     devices.
@@ -415,7 +415,7 @@
                     19. Data Mining and Knowledge Discovery
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves analyzing and extracting patterns and knowledge from large datasets. It includes
+                    This <a href="https://www.springer.com/journal/10618"> Data Mining</a> involves analyzing and extracting patterns and knowledge from large datasets. It includes
                     research on techniques for data cleaning, data integration, and data visualization. The goal is to
                     improve decision-making in various domains, including business, healthcare, and scientific research.
 
@@ -426,7 +426,7 @@
                     20. Quantum Computing and Cryptography
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves developing algorithms and systems for quantum computing and cryptography. It
+                    This topic involves developing algorithms and systems for <a href="https://www.ibm.com/cloud/blog/what-is-quantum-safe-cryptography-and-why-do-we-need-it">quantum computing and cryptography</a>. It
                     includes research on quantum mechanics, quantum computing hardware, and quantum cryptography
                     protocols. The goal is to create more powerful and secure computing systems for a variety of
                     applications.
@@ -437,7 +437,7 @@
                     21. High-Performance Computing
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves analyzing and improving techniques for high-performance computing systems. It
+                    This topic involves analyzing and improving techniques for <a href="https://www.netapp.com/data-storage/high-performance-computing/what-is-hpc/">high-performance computing systems.</a>  It
                     includes research on parallel processing, distributed computing, and cloud computing. The goal is to
                     create computing systems that can handle large amounts of data and complex computations efficiently.
 
@@ -448,7 +448,7 @@
                     22. Computer-Assisted Education and Learning
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves developing and analyzing systems for computer-assisted learning and education.
+                    This topic involves developing and analyzing systems for <a href="https://www.fluentu.com/blog/educator/what-is-computer-assisted-learning-2/">computer-assisted learning and education</a>.
                     It includes research on instructional design, learning analytics, and educational technology. The
                     goal is to create more effective and personalized learning experiences for students.
 
@@ -459,7 +459,7 @@
                     23. Social Media Mining and Analysis
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves analyzing and extracting insights and trends from social media data. It includes
+                    This research topic <a href="https://www.springer.com/journal/13278">Social Media Mining and Analysis</a> involves analyzing and extracting insights and trends from social media data. It includes
                     research on natural language processing, data mining, and social network analysis. The goal is to
                     understand social media behavior and user preferences to improve marketing, product development, and
                     public opinion analysis.
@@ -471,17 +471,17 @@
                     24. Cyber-Physical Systems
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves developing systems for the integration of computers and physical systems. It
+                    This research topic <a href="https://www.rmit.edu.au/news/c4de/what-are-cyber-physical-systems#:~:text=In%20general%2C%20a%20commonly%20accepted,towards%20performing%20well%20defined%20tasks.">Cyber-Physical Systems</a> involves developing systems for the integration of computers and physical systems. It
                     includes research on embedded systems, robotics, and control systems.
 
                 </p>
             </div>
             <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
-                    25. Internet Security and Privacy:
+                    25. Internet Security and Privacy
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This research topic involves studying and developing ways to protect personal information and secure
+                    This research topic <a href="https://www.wired.com/insights/2013/10/internet-privacy-and-security-a-shared-responsibility/">Internet Security and Privacy</a> involves studying and developing ways to protect personal information and secure
                     online communication from unauthorized access or malicious attacks. The goal is to improve the
                     security and privacy of internet users by developing and implementing effective security measures.
                 </p>
@@ -491,7 +491,7 @@
                     26. Data Visualization and Visual Analytics
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This research topic involves developing techniques for visualizing and analyzing complex data sets.
+                    This research topic <a href="https://www.sisense.com/blog/data-visualization-and-visual-analytics-seeing-the-world-of-data/">Data Visualization and Visual Analytics</a> involves developing techniques for visualizing and analyzing complex data sets.
                     It focuses on creating meaningful and easy-to-understand visual representations of data that can
                     help users gain insights and make better decisions.
 
@@ -502,7 +502,7 @@
                     27. Computer-Based Medical Systems
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This research topic involves developing and analyzing computer-based medical systems and
+                    This research topic <a href="https://www.sciencedirect.com/science/article/abs/pii/S0065245808601771">Computer-Based Medical Systems</a> involves developing and analyzing computer-based medical systems and
                     technologies that can improve patient care and outcomes. The goal is to create innovative solutions
                     that leverage technology to improve healthcare delivery, diagnosis, treatment, and patient
                     management.
@@ -514,7 +514,7 @@
                     28. Embedded Systems and Real-Time Computing
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This research topic involves developing and analyzing systems for real-time computing and embedded
+                    This research topic <a href="https://www.tutorialspoint.com/Real-Time-Embedded-Systems">Embedded Systems and Real-Time Computing</a> involves developing and analyzing systems for real-time computing and embedded
                     systems. It focuses on creating efficient and reliable solutions for time-critical applications such
                     as industrial control systems, medical devices, and aerospace systems.
 
@@ -525,7 +525,7 @@
                     29. Intelligent Transportation Systems
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This research topic involves developing and analyzing systems for intelligent transportation, such
+                    This research topic <a href="https://www.geospatialworld.net/blogs/what-is-intelligent-transport-system-and-how-it-works/">Intelligent Transportation Systems</a> involves developing and analyzing systems for intelligent transportation, such
                     as autonomous vehicles. It focuses on creating innovative solutions that can improve transportation
                     efficiency, safety, and sustainability.
                 </p>
@@ -535,7 +535,7 @@
                     30. Computational Biology and Bioinformatics
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This research topic involves analyzing and developing algorithms and techniques for analyzing
+                    This research topic <a href="https://www.nature.com/subjects/computational-biology-and-bioinformatics">Computational Biology and Bioinformatics</a> involves analyzing and developing algorithms and techniques for analyzing
                     biological data. It focuses on creating new approaches to studying biological systems and processes,
                     such as gene expression analysis, drug discovery, and disease diagnosis.
 
