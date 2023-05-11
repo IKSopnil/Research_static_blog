@@ -78,35 +78,15 @@
 
 
 <body class="bg-light" id="body">
-<!--ads-->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8407710611045630"
-     crossorigin="anonymous"></script>
-<!-- Advertisment -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8407710611045630"
-     data-ad-slot="2535909596"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<!--ads-->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8407710611045630"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8407710611045630"
-     data-ad-slot="6774537507"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+  
 
 
-    <a href="#" class="scroll-top-btn">
+
+<?php include 'navbar.php'?>  
+
+
+
+<a href="#" class="scroll-top-btn">
         <i class="fa fa-arrow-up"></i>
     </a>
     <style>
@@ -163,7 +143,7 @@
             });
         });
     </script>
-<?php include 'navbar.php'?>  
+    
 <section class="container mt-5 ">
         <div>
             <h1 style="font-weight: bold;">Top 30 Thesis and Research topic for Computer Science. </h1>
