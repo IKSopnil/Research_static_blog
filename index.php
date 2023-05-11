@@ -110,6 +110,7 @@
         <i class="fa fa-arrow-up"></i>
     </a>
     <style>
+       
         .scroll-top-btn {
             position: fixed;
             bottom: 20px;
