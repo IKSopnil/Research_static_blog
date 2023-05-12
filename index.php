@@ -10,8 +10,8 @@
     <meta name="description" content="Best topics for your research or thesis project in computer science. Top 30 topics, including Artificial Intelligence (AI). Machine learning. Cybersecurity. NLP. HCI and more.">
     <meta name="keywords" content="best research topic for students, cs research,computer science engineers, AI, machine learning, cybersecurity">
    
-   <link rel="shortcut icon" href="pc.png">
-<link rel="icon" type="image/png" href="pc.png">
+   <link rel="icon" type="image/png" sizes="16x16 32x32 192x192" href="pc.png">
+
 
 
     
@@ -204,6 +204,8 @@
 
                 </p>
             </div>
+         
+
             <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     2. Machine Learning for Natural Language Processing
