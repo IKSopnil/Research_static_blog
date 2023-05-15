@@ -6,18 +6,37 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Top 30 Thesis, Research Topic in Computer Science - Best Topics</title>
+    <title>Top 30 Thesis, Research Topic in Computer Science Engineering- Best Topics</title>
     <meta name="description" content="Best topics for your research or thesis project in computer science. Top 30 topics, including Artificial Intelligence (AI). Machine learning. Cybersecurity. NLP. HCI and more.">
     <meta name="keywords" content="best research topic for students, cs research,computer science engineers, AI, machine learning, cybersecurity">
-   
-   <link rel="icon" type="image/png" sizes="16x16 32x32 192x192" href="pc.png">
 
+
+<link rel="icon" type="image/png" sizes="16x16 24x24 48x48 72x72 32x32 192x192" href="pc.png">
+
+
+<link rel="apple-touch-icon" sizes="57x57" href="icon.ico/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="icon.ico/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="icon.ico/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="icon.ico/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="icon.ico/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="icon.ico/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="icon.ico/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="icon.ico/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="icon.ico/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="icon.ico/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="icon.ico/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="icon.ico/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="icon.ico/favicon-16x16.png">
+<link rel="manifest" href="icon.ico/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="icon.ico/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
 
 
     
     <!-- Add Open Graph tags for social media sharing -->
     <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="article" />
+    <meta property="og:type" content="article,blog" />
     <meta property="og:title" content="Top 30 Thesis, Research Topic in Computer Science - Best Topics 2023">
     <meta property="og:description" content="best topics for research project in computer science 2023. Top 30 topics, including AI, machine learning, cybersecurity, NLP , HCI and more.">
     <meta property="og:image" content="https://research-thesis.com/pc.png">
@@ -146,7 +165,7 @@
     
 <section class="container mt-5 ">
         <div>
-            <h1 style="font-weight: bold;">Top 30 Thesis and Research topic for Computer Science. </h1>
+            <h1 style="font-weight: bold;">Top 30 Thesis and Research topic for Computer Science and Engineering. </h1>
         </div>
         <hr>
         <style>
@@ -193,7 +212,7 @@
         <div class="lg-container bg-light mt-5">
             <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>1. Cybersecurity and Data Privacy: </h4>
-                <p class="col-lg-10  mt-3"><a href="https://www.javatpoint.com/cyber-security-tutorial">Cybersecurity</a>
+                <p class="col-lg-10  mt-3"><a href="https://www.javatpoint.com/cyber-security-tutorial" target="_blank">Cybersecurity</a>
                      and data privacy are critical issues in today's digital age. Hackers and cyber
                     criminals are constantly looking for ways to access sensitive data, and it is essential to have
                     secure systems and protocols in place to protect against cyber attacks. This topic involves
@@ -211,7 +230,7 @@
                     2. Machine Learning for Natural Language Processing
                 </h4>
                 <p class="col-lg-10 mt-3">
-                   <a href="https://www.lexalytics.com/blog/machine-learning-natural-language-processing/">Machine learning</a> is a powerful tool for natural language processing, enabling computers to
+                   <a target="_blank"href="https://www.lexalytics.com/blog/machine-learning-natural-language-processing/">Machine learning</a> is a powerful tool for natural language processing, enabling computers to
                     understand and process human language. This topic involves developing and improving algorithms and
                     techniques for natural language processing, including text classification, sentiment analysis, and
                     machine translation. It may also involve research into deep learning and neural networks for
@@ -222,7 +241,7 @@
                 <h4>
                     3. Cloud Computing and Big Data
                 </h4>
-                <p class="col-lg-10 mt-3"><a href="https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing#:~:text=Simply%20put%2C%20cloud%20computing%20is,resources%2C%20and%20economies%20of%20scale.">Cloud computing</a>
+                <p class="col-lg-10 mt-3"><a target="_blank" href="https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing#:~:text=Simply%20put%2C%20cloud%20computing%20is,resources%2C%20and%20economies%20of%20scale.">Cloud computing</a>
                      has revolutionized the way that data is stored and processed, and big data is
                     becoming increasingly important in many industries. This topic involves analyzing and designing
                     systems to handle large amounts of data using cloud computing, including data storage, retrieval,
@@ -234,7 +253,7 @@
                 <h4>
                     4. Computer Vision and Image Processing
                 </h4>
-                <p class="col-lg-10 mt-3"><a href="https://www.geeksforgeeks.org/difference-between-image-processing-and-computer-vision/">Computer vision and image processing</a>  
+                <p class="col-lg-10 mt-3"><a target="_blank" href="https://www.geeksforgeeks.org/difference-between-image-processing-and-computer-vision/">Computer vision and image processing</a>  
                     are important fields in computer science, enabling computers to
                     analyze and process visual information. This topic involves developing and improving algorithms and
                     techniques for analyzing and processing images, including object recognition, facial recognition,
@@ -246,7 +265,7 @@
                 <h4>
                     5. Artificial Intelligence and Robotics
                 </h4>
-                <p class="col-lg-10 mt-3"><a href="https://aibusiness.com/verticals/robotics-and-artificial-intelligence-the-role-of-ai-in-robots">Artificial intelligence and robotics</a>
+                <p class="col-lg-10 mt-3"><a target="_blank" href="https://aibusiness.com/verticals/robotics-and-artificial-intelligence-the-role-of-ai-in-robots">Artificial intelligence and robotics</a>
                      are rapidly advancing fields with numerous applications in
                     industry, healthcare, and other areas. This topic involves researching and developing algorithms for
                     intelligent robots and automation systems, including machine learning, computer vision, and natural
@@ -259,7 +278,7 @@
                 <h4>
                     6. Human-Computer Interaction
                 </h4>
-                <p class="col-lg-10 mt-3"><a href="https://www.interaction-design.org/literature/topics/human-computer-interaction">Human-computer interaction</a>
+                <p class="col-lg-10 mt-3"><a  target="_blank" href="https://www.interaction-design.org/literature/topics/human-computer-interaction">Human-computer interaction</a>
                      is a critical aspect of designing effective computer systems and
                     interfaces. This topic involves researching and developing interfaces and systems for effective
                     human-computer interaction, including user experience design, usability testing, and accessibility.
@@ -273,7 +292,7 @@
                     7. Virtual and Augmented Reality
 
                 </h4>
-                <p class="col-lg-10 mt-3"><a href="https://www.teamviewer.com/en/augmented-reality-ar-vs-virtual-reality-vr/">Virtual and augmented</a>
+                <p class="col-lg-10 mt-3"><a target="_blank" href="https://www.teamviewer.com/en/augmented-reality-ar-vs-virtual-reality-vr/">Virtual and augmented</a>
                      reality are rapidly growing fields with numerous applications in
                     entertainment, education, and other areas. This topic involves analyzing and developing virtual and
                     augmented reality systems for various applications, including gaming, education, and training. It
@@ -286,7 +305,7 @@
                 <h4>
                     8. Software Engineering and Development
                 </h4>
-                <p class="col-lg-10 mt-3"><a href="https://www.guru99.com/difference-software-engineer-developer.html">Software engineering and development</a>
+                <p class="col-lg-10 mt-3"><a target="_blank" href="https://www.guru99.com/difference-software-engineer-developer.html">Software engineering and development</a>
                      is a critical aspect of building effective computer systems and
                     applications. This topic involves developing and improving software engineering methods and
                     practices, including software design, testing, and maintenance. It may also involve exploring new
@@ -299,7 +318,7 @@
                 <h4>
                     9. Data Science and Analytics
                 </h4>
-                <p class="col-lg-10 mt-3"><a href="https://www.sisense.com/blog/data-science-vs-data-analytics/">Data science and analytics</a>
+                <p class="col-lg-10 mt-3"><a target="_blank" href="https://www.sisense.com/blog/data-science-vs-data-analytics/">Data science and analytics</a>
                      are important fields in computer science, enabling organizations to gain
                     insights and solve problems using data. This topic involves analyzing and processing data to gain
                     insights and solve problems, including data mining, machine learning, and statistical analysis. It
@@ -312,7 +331,7 @@
                 <h4>
                     10. Natural Computing and Evolutionary Algorithms
                 </h4>
-                <p class="col-lg-10 mt-3"><a href="https://www.springer.com/journal/11047">Natural computing</a>
+                <p class="col-lg-10 mt-3"><a target="_blank" href="https://www.springer.com/journal/11047">Natural computing</a>
                      and evolutionary algorithms are based on natural systems such as genetics and
                     evolution, and are used to solve complex problems in computer science.
                 </p>
@@ -322,7 +341,7 @@
                     11. Computer Graphics and Animation
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic focuses on developing and improving <a href="https://www.javatpoint.com/computer-graphics-animation">computer graphics and animation</a> techniques. It
+                    This topic focuses on developing and improving <a target="_blank" href="https://www.javatpoint.com/computer-graphics-animation">computer graphics and animation</a> techniques. It
                     involves research on the latest advancements in 3D modeling, animation, rendering, and visual
                     effects. The goal is to create more realistic and visually appealing graphics for various
                     applications, including video games, movies, and virtual reality.
@@ -333,7 +352,7 @@
                     12. Internet of Things and Smart Cities
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves researching and developing systems for connected devices and <a href="https://dgtlinfra.com/smart-city-internet-of-things-iot/#:~:text=A%20smart%20city%20uses%20Internet,a%20higher%20standard%20of%20living.">smart cities</a>. It
+                    This topic involves researching and developing systems for connected devices and <a target="_blank" href="https://dgtlinfra.com/smart-city-internet-of-things-iot/#:~:text=A%20smart%20city%20uses%20Internet,a%20higher%20standard%20of%20living.">smart cities</a>. It
                     involves exploring ways to connect everyday devices to the internet to collect and analyze data that
                     can be used to optimize and improve city operations, including transportation, energy, and public
                     safety.
@@ -346,7 +365,7 @@
                 </h4>
                 <p class="col-lg-10 mt-3">
                     This topic involves analyzing and developing systems and protocols for secure and decentralized
-                    transactions. It includes research on the <a href="https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html">blockchain technology</a> that underpins cryptocurrencies like
+                    transactions. It includes research on the <a target="_blank" href="https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html">blockchain technology</a> that underpins cryptocurrencies like
                     Bitcoin and Ethereum, as well as exploring their potential applications beyond finance, such as
                     supply chain management and voting systems.
 
@@ -359,7 +378,7 @@
                 <p class="col-lg-10 mt-3">
                     This topic involves analyzing and preventing cybercrime, as well as investigating digital evidence.
                     It involves research on the latest methods used by cybercriminals to exploit vulnerabilities in
-                    computer systems and developing strategies to protect against these threats. <a href="https://www.researchgate.net/publication/314220073_Cybercrime_and_Digital_Forensics_An_Introduction">Digital forensics</a> 
+                    computer systems and developing strategies to protect against these threats. <a target="_blank" href="https://www.researchgate.net/publication/314220073_Cybercrime_and_Digital_Forensics_An_Introduction">Digital forensics</a> 
                     involves analyzing digital evidence in criminal investigations.
 
                 </p>
@@ -369,7 +388,7 @@
                     15. Computational Linguistics
                 </h4>
                 <p class="col-lg-10 mt-3">
-                   <a href="https://plato.stanford.edu/entries/computational-linguistics/"> This topic</a> involves developing algorithms and techniques for analyzing and processing language data.
+                   <a target="_blank" href="https://plato.stanford.edu/entries/computational-linguistics/">Computational Linguistics</a> involves developing algorithms and techniques for analyzing and processing language data.
                     It includes research on natural language processing, speech recognition, and machine translation.
                     The goal is to improve human-computer communication, as well as analyzing and understanding large
                     amounts of textual data.
@@ -381,7 +400,7 @@
                     16. Biometrics and Security
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves developing and analyzing <a href="https://www.kaspersky.com/resource-center/definitions/biometrics">biometric systems for secure identification</a>  and
+                    This topic involves developing and analyzing <a target="_blank" href="https://www.kaspersky.com/resource-center/definitions/biometrics">biometric systems for secure identification</a>  and
                     authentication. It includes research on techniques for capturing, analyzing, and comparing
                     biological traits, such as fingerprints, facial recognition, and voice recognition, as well as
                     exploring their potential applications in security systems.
@@ -393,7 +412,7 @@
                     17. Mobile Computing and Applications
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves <a href="https://dataconomy.com/2022/07/29/what-is-mobile-computing/#:~:text=Mobile%20computing%20and%20its%20applications,hardware%2C%20software%2C%20and%20hardware.">developing mobile applications and systems</a>  for various platforms. It includes
+                    This topic involves <a target="_blank" href="https://dataconomy.com/2022/07/29/what-is-mobile-computing/#:~:text=Mobile%20computing%20and%20its%20applications,hardware%2C%20software%2C%20and%20hardware.">developing mobile applications and systems</a>  for various platforms. It includes
                     research on user interfaces, mobile application development frameworks, and mobile device hardware
                     capabilities. The goal is to create intuitive and efficient mobile applications for a variety of
                     purposes, including productivity, gaming, and social networking.
@@ -405,7 +424,7 @@
                     18. Computer Networks and Communication
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves analyzing and improving <a href="https://www.britannica.com/science/computer-science/Networking-and-communication"> computer network and communication</a> protocols. It
+                    This topic involves analyzing and improving <a target="_blank" href="https://www.britannica.com/science/computer-science/Networking-and-communication"> computer network and communication</a> protocols. It
                     includes research on data transmission, network architecture, and network security. The goal is to
                     create more efficient and secure network systems that can support a variety of applications and
                     devices.
@@ -417,7 +436,7 @@
                     19. Data Mining and Knowledge Discovery
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This <a href="https://www.springer.com/journal/10618"> Data Mining</a> involves analyzing and extracting patterns and knowledge from large datasets. It includes
+                    This <a target="_blank" href="https://www.springer.com/journal/10618"> Data Mining</a> involves analyzing and extracting patterns and knowledge from large datasets. It includes
                     research on techniques for data cleaning, data integration, and data visualization. The goal is to
                     improve decision-making in various domains, including business, healthcare, and scientific research.
 
@@ -428,7 +447,7 @@
                     20. Quantum Computing and Cryptography
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves developing algorithms and systems for <a href="https://www.ibm.com/cloud/blog/what-is-quantum-safe-cryptography-and-why-do-we-need-it">quantum computing and cryptography</a>. It
+                    This topic involves developing algorithms and systems for <a target="_blank" href="https://www.ibm.com/cloud/blog/what-is-quantum-safe-cryptography-and-why-do-we-need-it">quantum computing and cryptography</a>. It
                     includes research on quantum mechanics, quantum computing hardware, and quantum cryptography
                     protocols. The goal is to create more powerful and secure computing systems for a variety of
                     applications.
@@ -439,7 +458,7 @@
                     21. High-Performance Computing
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves analyzing and improving techniques for <a href="https://www.netapp.com/data-storage/high-performance-computing/what-is-hpc/">high-performance computing systems.</a>  It
+                    This topic involves analyzing and improving techniques for <a target="_blank" href="https://www.netapp.com/data-storage/high-performance-computing/what-is-hpc/">high-performance computing systems.</a>  It
                     includes research on parallel processing, distributed computing, and cloud computing. The goal is to
                     create computing systems that can handle large amounts of data and complex computations efficiently.
 
@@ -450,7 +469,7 @@
                     22. Computer-Assisted Education and Learning
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This topic involves developing and analyzing systems for <a href="https://www.fluentu.com/blog/educator/what-is-computer-assisted-learning-2/">computer-assisted learning and education</a>.
+                    This topic involves developing and analyzing systems for <a target="_blank" href="https://www.fluentu.com/blog/educator/what-is-computer-assisted-learning-2/">computer-assisted learning and education</a>.
                     It includes research on instructional design, learning analytics, and educational technology. The
                     goal is to create more effective and personalized learning experiences for students.
 
@@ -461,7 +480,7 @@
                     23. Social Media Mining and Analysis
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This research topic <a href="https://www.springer.com/journal/13278">Social Media Mining and Analysis</a> involves analyzing and extracting insights and trends from social media data. It includes
+                    This research topic <a target="_blank" href="https://www.springer.com/journal/13278">Social Media Mining and Analysis</a> involves analyzing and extracting insights and trends from social media data. It includes
                     research on natural language processing, data mining, and social network analysis. The goal is to
                     understand social media behavior and user preferences to improve marketing, product development, and
                     public opinion analysis.
@@ -473,7 +492,7 @@
                     24. Cyber-Physical Systems
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This research topic <a href="https://www.rmit.edu.au/news/c4de/what-are-cyber-physical-systems#:~:text=In%20general%2C%20a%20commonly%20accepted,towards%20performing%20well%20defined%20tasks.">Cyber-Physical Systems</a> involves developing systems for the integration of computers and physical systems. It
+                    This research topic <a target="_blank" href="https://www.rmit.edu.au/news/c4de/what-are-cyber-physical-systems#:~:text=In%20general%2C%20a%20commonly%20accepted,towards%20performing%20well%20defined%20tasks.">Cyber-Physical Systems</a> involves developing systems for the integration of computers and physical systems. It
                     includes research on embedded systems, robotics, and control systems.
 
                 </p>
@@ -483,7 +502,7 @@
                     25. Internet Security and Privacy
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This research topic <a href="https://www.wired.com/insights/2013/10/internet-privacy-and-security-a-shared-responsibility/">Internet Security and Privacy</a> involves studying and developing ways to protect personal information and secure
+                    This research topic <a target="_blank" href="https://www.wired.com/insights/2013/10/internet-privacy-and-security-a-shared-responsibility/">Internet Security and Privacy</a> involves studying and developing ways to protect personal information and secure
                     online communication from unauthorized access or malicious attacks. The goal is to improve the
                     security and privacy of internet users by developing and implementing effective security measures.
                 </p>
@@ -493,7 +512,7 @@
                     26. Data Visualization and Visual Analytics
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This research topic <a href="https://www.sisense.com/blog/data-visualization-and-visual-analytics-seeing-the-world-of-data/">Data Visualization and Visual Analytics</a> involves developing techniques for visualizing and analyzing complex data sets.
+                    This research topic <a target="_blank" href="https://www.sisense.com/blog/data-visualization-and-visual-analytics-seeing-the-world-of-data/">Data Visualization and Visual Analytics</a> involves developing techniques for visualizing and analyzing complex data sets.
                     It focuses on creating meaningful and easy-to-understand visual representations of data that can
                     help users gain insights and make better decisions.
 
@@ -504,7 +523,7 @@
                     27. Computer-Based Medical Systems
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This research topic <a href="https://www.sciencedirect.com/science/article/abs/pii/S0065245808601771">Computer-Based Medical Systems</a> involves developing and analyzing computer-based medical systems and
+                    This research topic <a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0065245808601771">Computer-Based Medical Systems</a> involves developing and analyzing computer-based medical systems and
                     technologies that can improve patient care and outcomes. The goal is to create innovative solutions
                     that leverage technology to improve healthcare delivery, diagnosis, treatment, and patient
                     management.
@@ -516,7 +535,7 @@
                     28. Embedded Systems and Real-Time Computing
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This research topic <a href="https://www.tutorialspoint.com/Real-Time-Embedded-Systems">Embedded Systems and Real-Time Computing</a> involves developing and analyzing systems for real-time computing and embedded
+                    This research topic <a target="_blank" href="https://www.tutorialspoint.com/Real-Time-Embedded-Systems">Embedded Systems and Real-Time Computing</a> involves developing and analyzing systems for real-time computing and embedded
                     systems. It focuses on creating efficient and reliable solutions for time-critical applications such
                     as industrial control systems, medical devices, and aerospace systems.
 
@@ -527,7 +546,7 @@
                     29. Intelligent Transportation Systems
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This research topic <a href="https://www.geospatialworld.net/blogs/what-is-intelligent-transport-system-and-how-it-works/">Intelligent Transportation Systems</a> involves developing and analyzing systems for intelligent transportation, such
+                    This research topic <a target="_blank" href="https://www.geospatialworld.net/blogs/what-is-intelligent-transport-system-and-how-it-works/">Intelligent Transportation Systems</a> involves developing and analyzing systems for intelligent transportation, such
                     as autonomous vehicles. It focuses on creating innovative solutions that can improve transportation
                     efficiency, safety, and sustainability.
                 </p>
@@ -537,7 +556,7 @@
                     30. Computational Biology and Bioinformatics
                 </h4>
                 <p class="col-lg-10 mt-3">
-                    This research topic <a href="https://www.nature.com/subjects/computational-biology-and-bioinformatics">Computational Biology and Bioinformatics</a> involves analyzing and developing algorithms and techniques for analyzing
+                    This research topic <a target="_blank" href="https://www.nature.com/subjects/computational-biology-and-bioinformatics">Computational Biology and Bioinformatics</a> involves analyzing and developing algorithms and techniques for analyzing
                     biological data. It focuses on creating new approaches to studying biological systems and processes,
                     such as gene expression analysis, drug discovery, and disease diagnosis.
 
@@ -548,42 +567,9 @@
 
     </section>
     <section>
-        <head>
-  <title>Top 30 Thesis, Research Topic in Computer Science - Best Topics</title>
-  <meta name="description" content="Find the best topics for your thesis or research project in computer science. Get inspired by our list of the top 30 topics, including AI, machine learning, cybersecurity, and more.">
-  <meta name="keywords" content="thesis topics, research topics, computer science, AI, machine learning, cybersecurity">
-
-  <!--font awesome-->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-</head>
+       
 <footer class="bg-dark text-white py-3 ">
-  <div class="container">
-    <div class="row ">
-      <div class="col-4 text-center">
-        <h5>Thesis and Research</h5>
-        <p>IKSopnil,</p>
-        <p>Computer Science and Engineering</p>
-        <p>roarmode@gmail.com</p>
-        <p>2023</p>
-        <p id="fyi-link" style="cursor: pointer; color: blue">FYI</p>
-        <p id="fyi-message" style="display: none;">These thesis and research topics in computer science were suggested by ChatGPT, a language model trained by OpenAI, based on the GPT-3.5 architecture. The topics are meant to provide inspiration and guidance to students and researchers interested in computer science. While we strive to provide accurate and useful information, it is important to conduct thorough research and consult with your academic advisors before finalizing a topic for your thesis or research. Additionally, please ensure that you follow proper citation and attribution guidelines when using external sources.</p>
-
-      </div>
-      <div class="col-4 text-center">
-        <h5>Sponsored by</h5>
-
-      </div>
-      <div class="col-4  text-center">
-        <h5>Follow Us</h5>
-        <ul class="list-inline mt-4">
-          <li><a href="https://bmc.link/iksopnil" target="_blank">Support Developer</a></li>
-          <li class="list-inline-item my-2"><a href="https://www.facebook.com/ibrahimkhalil.sopnil" target="_blank"><i class="fab fa-facebook"></i></a></li><br>
-          <li class="list-inline-item my-2"><a href="#" target="_blank"><i class="fab fa-twitter"></i></a></li><br>
-          <li class="list-inline-item my-2"><a href="https://www.linkedin.com/in/ibrahim-khalil-sopnil-01892a261" target="_blank"><i class="fab fa-linkedin-in"></i></a></li><br>
-        </ul>
-      </div>
-    </div>
-  </div>
+  <?php include"footer.php" ?>
 </footer>
 <script>
   const fyiLink = document.getElementById("fyi-link");

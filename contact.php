@@ -13,14 +13,48 @@
 
     <!-- Load Bootstrap CSS from CDN -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css">
-
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+ 
     <!-- Load custom CSS -->
     <link rel="stylesheet" href="style.css">
 </head>
+
 <?php
 include "navbar.php";
 ?>
+<?php
 
+
+$name = $email = $message = "";
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $name = test_input($_POST["name"]);
+    $email = test_input($_POST["email"]);
+    $message = test_input($_POST["message"]);
+
+    $conn = mysqli_connect("server.bestcloudns.biz","research_blog_user", "blog_user521", "research_blog");
+
+    $sql = "INSERT INTO message (name, email, message) VALUES ('$name', '$email', '$message')";
+
+    if (mysqli_query($conn, $sql)) {
+        echo '<div class="alert alert-primary alert-dismissible fade show text-center" role="alert">
+                <strong>Your message has been sent.</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>';
+    } else {
+        echo "Error: " . mysqli_error($conn);
+    }
+
+    mysqli_close($conn);
+}
+
+function test_input($data) {
+    $data = trim($data);
+    $data = stripslashes($data);
+    $data = htmlspecialchars($data);
+    return $data;
+}
+?>
 <body class="bg-light">
 
     <style>
@@ -92,7 +126,8 @@ include "navbar.php";
 
                 <div class="col-lg-6 justify-content-center my-2 mb-5">
                     <div>
-                        <form class="text-start" method="post" action="#" onsubmit="sendEmail(event)">
+                    <form class="text-start" method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
+
                             <label for="name">Name:</label>
                             <input type="text" id="name" name="name" required>
 
@@ -104,30 +139,7 @@ include "navbar.php";
 
                             <input type="submit" class="my-3" name="send" value="Send">
                         </form>
-                    </div>
-
-                    <script>
-                        function sendEmail(event) {
-                            event.preventDefault();
-
-                            var name = document.getElementById("name").value;
-                            var email = document.getElementById("email").value;
-                            var message = document.getElementById("message").value;
-
-                            var xmlhttp = new XMLHttpRequest();
-                            xmlhttp.onreadystatechange = function() {
-                                if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-                                    alert("Your message has been sent!");
-                                    document.getElementById("name").value = "";
-                                    document.getElementById("email").value = "";
-                                    document.getElementById("message").value = "";
-                                }
-                            };
-                            xmlhttp.open("POST", "sendmail.php");
-                            xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-                            xmlhttp.send("name=" + name + "&email=" + email + "&message=" + message);
-                        }
-                    </script>
+                    </div>           
 
                 </div>
 
