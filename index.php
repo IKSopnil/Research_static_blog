@@ -44,7 +44,7 @@
     <meta property="og:type" content="computer science research-thesis ">
 
 	<meta property="og:site_name" content="research-thesis" />
-	<meta property="article:published_time" content="2023-05-03T09:35:39+00:00" />
+
 	<meta property="article:modified_time" content="2023-05-05T09:35:39+00:00" />
 
 
