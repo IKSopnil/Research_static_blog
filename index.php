@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Top 30 Thesis, Research Topic in Computer Science Engineering- Best Topics</title>
+    <title>Computer Science Research Topics</title>
     <meta name="description" content="Best topics for your research or thesis project in computer science. Top 30 topics, including Artificial Intelligence (AI). Machine learning. Cybersecurity. NLP. HCI and more.">
     <meta name="keywords" content="best research topic for students, cs research,computer science engineers, AI, machine learning, cybersecurity">
 
@@ -36,14 +36,15 @@
     
     <!-- Add Open Graph tags for social media sharing -->
     <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="article,blog" />
+    <meta property="og:type" content="article" />
     <meta property="og:title" content="Top 30 Thesis, Research Topic in Computer Science - Best Topics 2023">
     <meta property="og:description" content="best topics for research project in computer science 2023. Top 30 topics, including AI, machine learning, cybersecurity, NLP , HCI and more.">
     <meta property="og:image" content="https://research-thesis.com/pc.png">
     <meta property="og:url" content="https://research-thesis.com/">
-    <meta property="og:type" content="research-thesis computer science">
+    <meta property="og:type" content="computer science research-thesis ">
 
 	<meta property="og:site_name" content="research-thesis" />
+	<meta property="article:published_time" content="2023-05-03T09:35:39+00:00" />
 	<meta property="article:modified_time" content="2023-05-05T09:35:39+00:00" />
 
 
@@ -165,7 +166,7 @@
     
 <section class="container mt-5 ">
         <div>
-            <h1 style="font-weight: bold;">Top 30 Thesis and Research topic for Computer Science and Engineering. </h1>
+            <h1 style="font-weight: bold;">Top 30 Thesis and Research topic for Computer Science. </h1>
         </div>
         <hr>
         <style>
