@@ -37,13 +37,13 @@
     <!-- Add Open Graph tags for social media sharing -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Top 30 Thesis, Research Topic in Computer Science - Best Topics 2023">
+    <meta property="og:title" content="Computer Science Research Topics">
     <meta property="og:description" content="best topics for research project in computer science 2023. Top 30 topics, including AI, machine learning, cybersecurity, NLP , HCI and more.">
     <meta property="og:image" content="https://research-thesis.com/pc.png">
     <meta property="og:url" content="https://research-thesis.com/">
-    <meta property="og:type" content="computer science research-thesis ">
+    <meta property="og:type" content="computer science research thesis ">
 
-	<meta property="og:site_name" content="research-thesis" />
+	<meta property="og:site_name" content="Computer Science Research Topics" />
 
 	<meta property="article:modified_time" content="2023-05-05T09:35:39+00:00" />
 
@@ -64,7 +64,7 @@
                 "@type": "WebPage",
                 "@id": "https://research-thesis.com/"
             },
-            "headline": "Top 30 Thesis, Research Topic in Computer Science - Best Topics",
+            "headline": "Computer Science Research Topics",
             "description": "Find the best topics for your thesis or research project in computer science. Get inspired by our list of the top 30 topics, including AI, machine learning, cybersecurity, and more.",
             "image": {
                 "@type": "ImageObject",
