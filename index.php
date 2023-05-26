@@ -6,8 +6,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Computer Science Research Topics</title>
-    <meta name="description" content="Best topics for your research or thesis project in computer science. Top 30 topics, including Artificial Intelligence (AI). Machine learning. Cybersecurity. NLP. HCI and more.">
+    <title>Computer Science Research Topics 2023</title>
+    <meta name="description" content="best topics for research project in computer science 2023. Top 30 topics, including AI, machine learning, cybersecurity, NLP , HCI and more.">
     <meta name="keywords" content="best research topic for students, cs research,computer science engineers, AI, machine learning, cybersecurity">
 
 
@@ -38,7 +38,7 @@
     <link rel="canonical" href="https://research-thesis.com/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Computer Science Research Topics">
+    <meta property="og:title" content="Computer Science Research Topics 2023">
     <meta property="og:description" content="best topics for research project in computer science 2023. Top 30 topics, including AI, machine learning, cybersecurity, NLP , HCI and more.">
     <meta property="og:image" content="https://research-thesis.com/pc.png">
     <meta property="og:url" content="https://research-thesis.com/">
@@ -61,8 +61,8 @@
                 "@type": "WebPage",
                 "@id": "https://research-thesis.com/"
             },
-            "headline": "Computer Science Research Topics",
-            "description": "Find the best topics for your thesis or research project in computer science. Get inspired by our list of the top 30 topics, including AI, machine learning, cybersecurity, and more.",
+            "headline": "Computer Science Research Topics 2023",
+            "description": "best topics for research project in computer science 2023. Top 30 topics, including AI, machine learning, cybersecurity, NLP , HCI and more.",
             "image": {
                 "@type": "ImageObject",
                 "url": "pc.png",
@@ -163,7 +163,7 @@
     
 <section class="container mt-5 ">
         <div>
-            <h1 style="font-weight: bold;">Top 30 Thesis and Research topic for Computer Science. </h1>
+            <h1 style="font-weight: bold;">Top 30 Thesis and Research topic for Computer Science in 2023. </h1>
         </div>
         <hr>
         <style>
@@ -234,6 +234,23 @@
                     language processing, as well as applications such as chatbots and virtual assistants.
                 </p>
             </div>
+            
+            <!--add-->
+            
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8407710611045630"
+     crossorigin="anonymous"></script>
+<!-- square responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8407710611045630"
+     data-ad-slot="6907732007"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
             <div class=" ms-lg-5 ps-lg-5 ms-0 ps-0">
                 <h4>
                     3. Cloud Computing and Big Data
