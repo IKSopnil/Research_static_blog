@@ -27,9 +27,9 @@
         <h5>Follow Us</h5>
         <ul class="list-inline mt-4">
           <li><a href="https://bmc.link/iksopnil" target="_blank">Support Developer</a></li>
-          <li class="list-inline-item my-2"><a href="#"><i class="fab fa-facebook"></i></a></li><br>
-          <li class="list-inline-item my-2"><a href="#"><i class="fab fa-twitter"></i></a></li><br>
-          <li class="list-inline-item my-2"><a href="#"><i class="fab fa-linkedin-in"></i></a></li><br>
+          <li class="list-inline-item my-2"><a href="https://amzn.to/3OIwQW4" target="_blank"><i class="fab fa-facebook"></i></a></li><br>
+          <li class="list-inline-item my-2"><a href="https://amzn.to/3OIwQW4" target="_blank"><i class="fab fa-twitter"></i></a></li><br>
+          <li class="list-inline-item my-2"><a href="https://amzn.to/3OIwQW4" target="_blank"><i class="fab fa-linkedin-in"></i></a></li><br>
         </ul>
       </div>
     </div>
