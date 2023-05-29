@@ -21,8 +21,8 @@
       </div>
       <div class="col-4 text-center">
   <h5 class="mb-5">Red pill or Blue pill</h5>
-  <a class="red-button" href="https://indian.com"></a>
-  <a class="blue-button" href="https://world.com"></a>
+  <a class="red-button" href="https://amzn.to/3OIwQW4"></a>
+  <a class="blue-button" href="https://amzn.to/3OIwQW4"></a>
 </div>
 
 <style>
