@@ -13,16 +13,51 @@
         <h5>Thesis and Research</h5>
         <p>IKSopnil,</p>
         <p>Computer Science and Engineering</p>
-        <p>roarmode@gmail.com</p>
+        <p>@gmail.com</p>
         <p>2023</p>
         <p id="fyi-link" style="cursor: pointer; color: blue">FYI</p>
-        <p id="fyi-message" style="display: none;">These thesis and research topics in computer science were suggested by ChatGPT, a language model trained by OpenAI, based on the GPT-3.5 architecture. The topics are meant to provide inspiration and guidance to students and researchers interested in computer science. While we strive to provide accurate and useful information, it is important to conduct thorough research and consult with your academic advisors before finalizing a topic for your thesis or research. Additionally, please ensure that you follow proper citation and attribution guidelines when using external sources.</p>
+        <p id="fyi-message" style="display: none;">This site is updated.</p>
 
       </div>
       <div class="col-4 text-center">
-        <h5>Sponsored by</h5>
+  <h5 class="mb-5">Red pill or Blue pill</h5>
+  <a class="red-button" href="https://indian.com"></a>
+  <a class="blue-button" href="https://world.com"></a>
+</div>
 
-      </div>
+<style>
+  .red-button, .blue-button {
+    display: inline-block;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  }
+
+  .red-button:hover, .blue-button:hover {
+    display: inline-block;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    transform: scale(1.2, 1.2);
+	transition: .5s;
+  }
+
+
+  .red-button {
+    background-color: red;
+  }
+
+  .blue-button {
+    background-color: blue;
+  }
+</style>
+
       <div class="col-4  text-center">
         <h5>Follow Us</h5>
         <ul class="list-inline mt-4">
