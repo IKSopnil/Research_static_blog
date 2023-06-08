@@ -34,6 +34,7 @@
 
     <!-- Add Open Graph tags for social media sharing -->
     <link rel="canonical" href="https://research-thesis.com/" />
+    <link rel="canonical" href="https://research-thesis.com/index.php" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Top 30 Thesis, Research Topic in Computer Science - Best Topics">
