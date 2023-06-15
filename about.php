@@ -17,7 +17,6 @@
     <!-- Load custom CSS -->
     <link rel="stylesheet" href="style.css">
 </head>
-
 <body class="bg-light">
     <script>
         $(window).on("load", function() {
