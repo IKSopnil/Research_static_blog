@@ -17,6 +17,17 @@
     <!-- Load custom CSS -->
     <link rel="stylesheet" href="style.css">
 </head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BSKFGEKNZQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BSKFGEKNZQ');
+</script>
+
 <body class="bg-light">
     <script>
         $(window).on("load", function() {
