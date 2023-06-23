@@ -13,7 +13,7 @@
         <h5>Thesis and Research</h5>
         <p>IKSopnil,</p>
         <p>Computer Science and Engineering</p>
-        <p>@gmail.com</p>
+        <p>roarmode@gmail.com</p>
         <p>2023</p>
         <p id="fyi-link" style="cursor: pointer; color: blue">FYI</p>
         <p id="fyi-message" style="display: none;">This site is updated.</p>
@@ -62,9 +62,9 @@
         <h5>Follow Us</h5>
         <ul class="list-inline mt-4">
           <li><a href="https://bmc.link/iksopnil" target="_blank">Support Developer</a></li>
-          <li class="list-inline-item my-2"><a href="https://amzn.to/3OIwQW4" target="_blank"><i class="fab fa-facebook"></i></a></li><br>
-          <li class="list-inline-item my-2"><a href="https://amzn.to/3OIwQW4" target="_blank"><i class="fab fa-twitter"></i></a></li><br>
-          <li class="list-inline-item my-2"><a href="https://amzn.to/3OIwQW4" target="_blank"><i class="fab fa-linkedin-in"></i></a></li><br>
+          <li class="list-inline-item my-2"><a href="https://www.facebook.com/ibrahimkhalil.sopnil" target="_blank"><i class="fab fa-facebook"></i></a></li><br>
+          <li class="list-inline-item my-2"><a href="https://www.instagram.com/ik_sopnil/" target="_blank"><i class="fab fa-instagram"></i></a></li><br>
+          <li class="list-inline-item my-2"><a href="https://www.linkedin.com/in/ibrahim-khalil-sopnil-01892a261" target="_blank"><i class="fab fa-linkedin-in"></i></a></li><br>
         </ul>
       </div>
     </div>
