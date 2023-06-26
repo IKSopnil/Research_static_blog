@@ -107,7 +107,7 @@ function test_input($data) {
             <div class=" container row  my-5">
                 <h3 class="my-5 text-center">Message Us</h3>
                 <div class="col-lg-6  justify-content-center  ">
-                <a href="https://github.com/IKSopnil"><p class="my-4">IKSopnil</p></a>
+                <a href="https://github.com/IKSopnil" target="_blank"><p class="my-4">IKSopnil</p></a>
                     <p class="my-4">
                         Computer Science and Engineering
                     </p>
