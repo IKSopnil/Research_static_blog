@@ -11,7 +11,7 @@
     <div class="row ">
       <div class="col-4 text-center">
         <h5>Thesis and Research</h5>
-        <p>IKSopnil,</p>
+        <a href="https://github.com/IKSopnil"><p>IKSopnil,</p></a>
         <p>Computer Science and Engineering</p>
         <p>roarmode@gmail.com</p>
         <p>2023</p>
