@@ -47,8 +47,6 @@
     transform: scale(1.2, 1.2);
 	transition: .5s;
   }
-
-
   .red-button {
     background-color: red;
   }
